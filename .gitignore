@@ -1,0 +1,9 @@
+# .gitignore 파일 내용
+.streamlit/secrets.toml
+.env
+__pycache__/
+harmony_data.db
+build/
+dist/
+*.spec
+_internal/
